@@ -22,4 +22,3 @@ The project was organized into several phases and included the following compone
 
 **Code and Results Organization**: To ensure clarity and ease of navigation, we organized the project's code and results effectively within the repository.
 
-We are proud of the work we have done on this project and are confident in the outcomes and insights gained through our implementation and analysis.
